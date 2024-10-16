@@ -46,4 +46,4 @@ The dataset consists of various crowdfunding campaign metrics, including:
 
 
 ### Conclusion:
-This project helped streamline and categorize a large crowdfunding dataset, preparing it for deeper analysis. The use of Python's pandas library allowed for effective data manipulation, ensuring the data was in a format ready for further use. The exported files can be used in subsequent analysis or integrated into larger systems.
+In summary, we were able to streamline and categorize a large crowdfunding dataset, preparing it for deeper analysis. The use of Python's pandas library allowed for effective data manipulation, ensuring the data was in a format ready for further use. The exported files can be used in subsequent analysis or integrated into larger systems.
