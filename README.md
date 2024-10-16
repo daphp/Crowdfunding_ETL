@@ -25,7 +25,7 @@ The dataset consists of various crowdfunding campaign metrics, including:
 - **country and currency**: Information about campaign geography
 - **category and subcategory**: Campaign's business type and focus area.
 
-### Steps Implemented:
+### Steps Performed:
 1. **Data Extraction**: 
    - Loaded the dataset from an Excel file into a pandas DataFrame.
 2. **Data Transformation**:
@@ -37,16 +37,13 @@ The dataset consists of various crowdfunding campaign metrics, including:
      - `category.csv`
      - `subcategory.csv`
 
-### Tools and Resources:
+### References:
 - **Pandas**: Used extensively for data manipulation and cleaning.
 - **NumPy**: Employed for efficient data handling.
 - **Jupyter Notebook**: For interactive development and testing.
 - **Excel**: The initial data source was in `.xlsx` format.
+- **Boot Camp Spot**: Xpert Learning Assistant
 
-### How to Use:
-1. Clone the project repository.
-2. Install required dependencies listed in the `requirements.txt`.
-3. Run the Jupyter notebook to execute the ETL pipeline and generate CSV outputs.
 
 ### Conclusion:
 This project helped streamline and categorize a large crowdfunding dataset, preparing it for deeper analysis. The use of Python's pandas library allowed for effective data manipulation, ensuring the data was in a format ready for further use. The exported files can be used in subsequent analysis or integrated into larger systems.
